@@ -4,8 +4,18 @@ Check in QR アプリの作成 by Swift
 ## 機能概要
 用意されたQRコードを読み取ることにより、参加不参加の確認ができるようになる。
 
+1. Demo
+![demo](https://user-images.githubusercontent.com/46876791/64357800-4ecc3180-d040-11e9-9b03-2efd4868fbb0.gif "サンプル")
+
+2. スプレッドシート
+![スプレッドシート](https://user-images.githubusercontent.com/46876791/64354011-99967b00-d039-11e9-8084-85e9ef84db82.png "サンプル")
+
+3. Slack
+![Slack](https://user-images.githubusercontent.com/46876791/64352831-a7e39780-d037-11e9-97b5-6e9073e9754a.png "サンプル")
+
+
 ## 機能フロー
-1. ログイン（部署,名前）
+1. ログイン（社員番号）
 2. QR読取開始
 3. 読み取った値をスプレッドシートへ転機
 4. QR読取終了
@@ -20,10 +30,9 @@ Check in QR アプリの作成 by Swift
 ~~### 画面モック~~
 
 ### ログイン機能
-1.ユーザー名,部署　※登録も同じ
+1.社員番号
 2.タッチIDでログイン
 3.端末に保存する ※ のちにfire baseに置き換え
-4.登録ボタン
 	
 ### QR読取
 1. 何かしらのAPI
