@@ -8,7 +8,6 @@
 # やったこと
 ## 各メンバー報告
 [報告アプトプット](https://github.com/app-working/documents/tree/master/progress-reports)
-報告ピックアップ
 * 環境構築
 * [電卓アプリ](https://github.com/app-working/documents/blob/master/progress-reports/satoharu.md)
 * [加速度センサーアプリ](https://github.com/app-working/documents/blob/master/progress-reports/saitos.md)
