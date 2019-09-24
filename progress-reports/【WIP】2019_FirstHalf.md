@@ -9,13 +9,13 @@
 ## 各メンバー報告
 [報告アプトプット](https://github.com/app-working/documents/tree/master/progress-reports)
 報告ピックアップ
-### 環境構築
-### [電卓アプリ](https://github.com/app-working/documents/blob/master/progress-reports/satoharu.md)
-### [加速度センサーアプリ](https://github.com/app-working/documents/blob/master/progress-reports/saitos.md)
-### QR読み込みアプリ
-### [GPS機能をテスト的に実行するアプリ](https://github.com/app-working/documents/blob/master/progress-reports/hakuta_201907.md)
-### [チェックインアプリ-And](https://github.com/app-working/documents/blob/master/progress-reports/phai0512.md)
-### [チェックインアプリ-iOS](https://github.com/app-working/documents/blob/master/progress-reports/take.md)
+* 環境構築
+* [電卓アプリ](https://github.com/app-working/documents/blob/master/progress-reports/satoharu.md)
+* [加速度センサーアプリ](https://github.com/app-working/documents/blob/master/progress-reports/saitos.md)
+* QR読み込みアプリ
+* [GPS機能をテスト的に実行するアプリ](https://github.com/app-working/documents/blob/master/progress-reports/hakuta_201907.md)
+* [チェックインアプリ-And](https://github.com/app-working/documents/blob/master/progress-reports/phai0512.md)
+* [チェックインアプリ-iOS](https://github.com/app-working/documents/blob/master/progress-reports/take.md)
  
 # 問題点
 * 開発環境を整えるのが大変（ある程度マシンスペックも必要）
